@@ -1,0 +1,9 @@
+C:\Users\s.ballerini\Develop\C#\ReportITextSharp\ReportITextSharp\bin\Debug\ReportITextSharp.exe.config
+C:\Users\s.ballerini\Develop\C#\ReportITextSharp\ReportITextSharp\obj\Debug\ReportITextSharp.csprojResolveAssemblyReference.cache
+C:\Users\s.ballerini\Develop\C#\ReportITextSharp\ReportITextSharp\bin\Debug\ReportITextSharp.exe
+C:\Users\s.ballerini\Develop\C#\ReportITextSharp\ReportITextSharp\bin\Debug\ReportITextSharp.pdb
+C:\Users\s.ballerini\Develop\C#\ReportITextSharp\ReportITextSharp\bin\Debug\itextsharp.dll
+C:\Users\s.ballerini\Develop\C#\ReportITextSharp\ReportITextSharp\bin\Debug\itextsharp.pdfa.dll
+C:\Users\s.ballerini\Develop\C#\ReportITextSharp\ReportITextSharp\bin\Debug\itextsharp.xtra.dll
+C:\Users\s.ballerini\Develop\C#\ReportITextSharp\ReportITextSharp\obj\Debug\ReportITextSharp.exe
+C:\Users\s.ballerini\Develop\C#\ReportITextSharp\ReportITextSharp\obj\Debug\ReportITextSharp.pdb
